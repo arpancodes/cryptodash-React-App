@@ -1,5 +1,7 @@
 import React from 'react'
 
-export default WelcomeMessage = () => {
+const WelcomeMessage = () => {
     return <div>Welcome to Cryptodash</div>
 }
+
+export default WelcomeMessage
